@@ -1,7 +1,7 @@
 # bikesharing
 
 ## Overview
-The Tableau story can be viewed here https://public.tableau.com/app/profile/jimmy5146/viz/NYCCitiBIkeAnalysisbyJimmyD_Greer/NYCCitiBikeAnalysis#1
+The Tableau story can be viewed here [https://public.tableau.com/app/profile/jimmy5146/viz/NYCCitiBIkeAnalysisbyJimmyD_Greer/NYCCitiBikeAnalysis#1]("Link to Dashboard")
 
 In this project we used bikeshar data for the motnh of August in New York City to present to investors who are interested in a bikeshare program. We used our prowess in exploratory analysis to extract information that would be helpful for the investors and used Tableau to visualize our findings.
 
